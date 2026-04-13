@@ -130,5 +130,5 @@ result = classifier("هاد الفيلم عجبني بزاف!")
 
 ---
 
-*Built with for the Moroccan NLP community. 🇲🇦*
+*Built with love for the Moroccan NLP community. 🇲🇦*
 
