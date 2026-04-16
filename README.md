@@ -126,7 +126,6 @@ result = classifier("هاد الفيلم عجبني بزاف!")
 
 ## Contact
 - **Original Authors:** SI2M Lab ([SI2M-Lab/DarijaBERT](https://huggingface.co/SI2M-Lab))
-- **This Demo:** [your-github](https://github.com/your-username)
 
 ---
 
